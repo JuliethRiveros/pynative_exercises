@@ -4,7 +4,6 @@
 #Puedo usar la función input para esperar que el usuario ingrese un String.
 a = int(input("Ingrese el número a: "))
 b = int(input("Ingrese el número b: "))
-suma = 0
 producto = a*b
 if (producto > 1000):
 	suma = a+b
